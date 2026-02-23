@@ -1,6 +1,6 @@
 /* Home Section Css */
-/* Hero Section */
 
+/* Hero Section */
 .hero_section {
     position: relative;
     background: url(../assets/hero/hero-1.jpg) no-repeat center center;
@@ -37,7 +37,7 @@
 }
 
 .hero_section .badge_text .h3_lg {
-    font-size: 2.875rem;
+    font-size: 2.870rem;
     font-weight: 600;
     line-height: 1;
 }
@@ -525,5 +525,9 @@ footer .copy_right ul li:last-child:after {
     /* Home -Blog -Section 6     */
     .blog_section .carousel.slide .carousel-inner .carousel-caption p {
         font-size: 1rem;
+    }
+
+    .scroll_top {
+        display: none !important;
     }
 }
