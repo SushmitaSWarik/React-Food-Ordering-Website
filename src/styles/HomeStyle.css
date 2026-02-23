@@ -10,9 +10,9 @@
     padding-bottom: 90px;
 }
 
-.hero_section img{
-    width: 90%;  /*  added*/
-}
+.hero_section img{ 
+     width: 90%;  /* added */
+}  
 
 .hero_section .price_badge {
     background: url(../assets/hero/price-badge-yellow.png) no-repeat center center;
@@ -503,6 +503,11 @@ footer .copy_right ul li:last-child:after {
     /* .hero_section {
         padding-top: 150px;
     } */
+
+    .hero_section img{
+        width: 90%;
+    }
+    
 
     .hero_section .hero_text h1 {
         font-size: 5.5rem;

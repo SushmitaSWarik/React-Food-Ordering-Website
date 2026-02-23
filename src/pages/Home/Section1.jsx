@@ -20,7 +20,7 @@ function Section1() {
                             </div>
                         </Col>
 
-                        <Col lg={5}>
+                        <Col lg={5} className="d-flex align-items-center">
                             <div className="hero_text text-center">
                                 <h1 className="text-white">New Burger</h1>
                                 <h2 className="text-white">With Onion</h2>
@@ -32,7 +32,6 @@ function Section1() {
                                 <Link to="/" className="btn order_now">Order Now</Link>
                             </div>
                         </Col>
-
                     </Row>
                 </Container>
             </section>
