@@ -496,6 +496,10 @@ footer .copy_right ul li:last-child:after {
 @media (max-width:767px) {
 
     /* Home Hero Section 1 */
+    .hero_section {
+        padding-top: 150px;
+    }
+
     .hero_section .hero_text h1 {
         font-size: 5.5rem;
     }
